@@ -1,0 +1,7 @@
+Juan,Juan@marmol.com,+5491154762312,Peru 2464,Normal,1234
+Franco,Franco.Perez@gmail.com,+534645213542,Alvear y Colombres,Premium,112234
+Agustina,Agustina@gmail.com,+534645213542,Garay y Otra Calle,SuperUser,112234
+Esteban,eagghetto@yajojo.es,32145455656,calle siempre viva,Normal,1378110
+Carolina Jimenez,carojm@yajojo.es, 32145455677,calle siempre viva 2,Normal,1456497
+PedroJimenez,pedro@yajojo.es, 32145455688,calle siempre viva 3,Simple,1300444
+Carlo Jimenez,carlojj@yajojo.es, 32145455699,calle siempre viva 3,Premium,3901332
